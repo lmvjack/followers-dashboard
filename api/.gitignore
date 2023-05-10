@@ -1,0 +1,29 @@
+venv
+info_logs.log
+request_logs.log
+signup_logs.log
+feed_logs.log
+database.env
+alembic/versions
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+openapi.json

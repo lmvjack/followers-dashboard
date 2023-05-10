@@ -4,6 +4,8 @@ A dashboard to track your Instagram, Twitter and Twitch followers and an unoffic
 Built using Svelte, TypeScript and FastApi (Python).
 > ⚠️ ATTENTION: the unofficial API wrapper is intended as a personal reverse engineering exercise for didactic purposes. Note that using APIs without owner consent is often forbidden by Terms and Conditions. 
 
+![Image](dashboard-screenshot.png) 
+
 ## **API**
 The API wrapper is built using Python. The number of followers is extracted by calling the official APIs using Python's Requests library, then formatted using a FastApi's response modal. 
 * **Twitter**:

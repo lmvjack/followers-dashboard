@@ -1,4 +1,4 @@
-# followers-dasboard
+# followers-dashboard
 
 A dashboard to track your Instagram, Twitter and Twitch followers and an unofficial API wrapper of the previously mentioned socials.
 Built using Svelte, TypeScript and FastApi (Python).
